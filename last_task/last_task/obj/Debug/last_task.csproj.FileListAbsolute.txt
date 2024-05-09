@@ -1,0 +1,10 @@
+E:\iti\c#\Day10\tasks\last_task\last_task\bin\Debug\last_task.exe.config
+E:\iti\c#\Day10\tasks\last_task\last_task\bin\Debug\last_task.exe
+E:\iti\c#\Day10\tasks\last_task\last_task\bin\Debug\last_task.pdb
+E:\iti\c#\Day10\tasks\last_task\last_task\obj\Debug\last_task.csproj.AssemblyReference.cache
+E:\iti\c#\Day10\tasks\last_task\last_task\obj\Debug\last_task.Form1.resources
+E:\iti\c#\Day10\tasks\last_task\last_task\obj\Debug\last_task.Properties.Resources.resources
+E:\iti\c#\Day10\tasks\last_task\last_task\obj\Debug\last_task.csproj.GenerateResource.cache
+E:\iti\c#\Day10\tasks\last_task\last_task\obj\Debug\last_task.csproj.CoreCompileInputs.cache
+E:\iti\c#\Day10\tasks\last_task\last_task\obj\Debug\last_task.exe
+E:\iti\c#\Day10\tasks\last_task\last_task\obj\Debug\last_task.pdb
